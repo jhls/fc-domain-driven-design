@@ -96,4 +96,6 @@ export default class Customer{
 	public get Address(): Address {
 		return this._address;
 	}
+
+
 }
